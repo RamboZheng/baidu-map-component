@@ -149,8 +149,8 @@
 </template>
 
 <script>
-import API from "@/axios/api/commonAPI";
 export default {
+  // 传入组件的经纬度
   props: {
     gardenLatitude: {
       type: Number
