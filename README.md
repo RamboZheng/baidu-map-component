@@ -6,7 +6,7 @@ vue + elementUi + vue-baidu-map + jsonp 完成百度地图周边检索的地图�
 3.jsonp 因为需要请求百度接口来获取周边信息，但是vebpack打包以后会出现跨域问题，所以需要使用jsonp；  
 
 ![图示](https://github.com/RamboZheng/baidu-map-component/blob/master/img/img-1.png)  
-![图示](https://github.com/RamboZheng/baidu-map-component/blob/master/img/img-1.png)  
-![图示](https://github.com/RamboZheng/baidu-map-component/blob/master/img/img-1.png)  
+![图示](https://github.com/RamboZheng/baidu-map-component/blob/master/img/img-2.png)  
+![图示](https://github.com/RamboZheng/baidu-map-component/blob/master/img/img-3.png)  
 
 技术粗糙，欢迎斧正！
